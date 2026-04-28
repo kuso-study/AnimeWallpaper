@@ -43,15 +43,7 @@
   <div id="info">Loading Wallhaven Daily Top...</div>
 
   <script>
-    const API_URL =
-      "https://wallhaven.cc/api/v1/search" +
-      "?categories=010" +       // Anime only: General=100, Anime=010, People=001
-      "&purity=100" +           // SFW only
-      "&sorting=toplist" +
-      "&topRange=1d" +
-      "&atleast=1920x1080" +
-      "&ratios=16x9,16x10" +
-      "&per_page=100";
+    const API_URL = "./wallpapers.json";
 
     const REFRESH_INTERVAL = 5 * 60 * 1000; // 5分钟换一张
 
@@ -62,34 +54,26 @@
     const info = document.getElementById("info");
 
     async function fetchWallpapers() {
-      try {
-        const res = await fetch(API_URL);
-        const json = await res.json();
+        try {
+            const res = await fetch(API_URL + "?t=" + Date.now());
+            const json = await res.json();
 
-        wallpapers = json.data
-          .filter(item => item.path)
-          .map(item => ({
-            id: item.id,
-            url: item.path,
-            resolution: item.resolution,
-            views: item.views,
-            favorites: item.favorites
-          }));
+            wallpapers = json.filter(item => item.url);
 
-        shuffle(wallpapers);
-        index = 0;
+            shuffle(wallpapers);
+            index = 0;
 
-        if (wallpapers.length > 0) {
-          showNextWallpaper();
-        } else {
-          info.textContent = "No wallpapers found.";
+            if (wallpapers.length > 0) {
+            showNextWallpaper();
+            } else {
+            info.textContent = "No wallpapers found.";
+            }
+        } catch (err) {
+            console.error(err);
+            info.textContent = "Failed to load wallpapers.json.";
         }
-      } catch (err) {
-        console.error(err);
-        info.textContent = "Failed to load Wallhaven images.";
-      }
     }
-
+    
     function showNextWallpaper() {
       if (wallpapers.length === 0) return;
 

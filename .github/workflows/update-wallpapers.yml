@@ -1,0 +1,38 @@
+name: Update Wallhaven Wallpapers
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Wallhaven daily top
+        run: |
+          curl -L "https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=toplist&topRange=1d&atleast=1920x1080&ratios=16x9,16x10&per_page=100" \
+          -o raw.json
+
+          jq '[.data[] | {
+            id: .id,
+            url: .path,
+            resolution: .resolution,
+            views: .views,
+            favorites: .favorites
+          }]' raw.json > wallpapers.json
+
+      - name: Commit updated wallpapers
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add wallpapers.json
+          git commit -m "Update wallpapers" || echo "No changes"
+          git push

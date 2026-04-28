@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wallhaven Daily Top Wallpaper</title>
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #000;
+    }
+
+    #wallpaper {
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+      transition: opacity 1s ease;
+      opacity: 0;
+    }
+
+    #info {
+      position: fixed;
+      left: 16px;
+      bottom: 12px;
+      padding: 6px 10px;
+      border-radius: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 12px;
+      color: rgba(255,255,255,0.75);
+      background: rgba(0,0,0,0.35);
+      backdrop-filter: blur(8px);
+    }
+  </style>
+</head>
+
+<body>
+  <img id="wallpaper" />
+  <div id="info">Loading Wallhaven Daily Top...</div>
+
+  <script>
+    const API_URL =
+      "https://wallhaven.cc/api/v1/search" +
+      "?categories=010" +       // Anime only: General=100, Anime=010, People=001
+      "&purity=100" +           // SFW only
+      "&sorting=toplist" +
+      "&topRange=1d" +
+      "&atleast=1920x1080" +
+      "&ratios=16x9,16x10" +
+      "&per_page=100";
+
+    const REFRESH_INTERVAL = 5 * 60 * 1000; // 5分钟换一张
+
+    let wallpapers = [];
+    let index = 0;
+
+    const img = document.getElementById("wallpaper");
+    const info = document.getElementById("info");
+
+    async function fetchWallpapers() {
+      try {
+        const res = await fetch(API_URL);
+        const json = await res.json();
+
+        wallpapers = json.data
+          .filter(item => item.path)
+          .map(item => ({
+            id: item.id,
+            url: item.path,
+            resolution: item.resolution,
+            views: item.views,
+            favorites: item.favorites
+          }));
+
+        shuffle(wallpapers);
+        index = 0;
+
+        if (wallpapers.length > 0) {
+          showNextWallpaper();
+        } else {
+          info.textContent = "No wallpapers found.";
+        }
+      } catch (err) {
+        console.error(err);
+        info.textContent = "Failed to load Wallhaven images.";
+      }
+    }
+
+    function showNextWallpaper() {
+      if (wallpapers.length === 0) return;
+
+      const item = wallpapers[index];
+
+      img.style.opacity = 0;
+
+      setTimeout(() => {
+        img.src = item.url;
+        img.onload = () => {
+          img.style.opacity = 1;
+          info.textContent =
+            `Wallhaven #${item.id} · ${item.resolution} · ${index + 1}/${wallpapers.length}`;
+        };
+      }, 500);
+
+      index = (index + 1) % wallpapers.length;
+    }
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+
+    fetchWallpapers();
+
+    setInterval(showNextWallpaper, REFRESH_INTERVAL);
+
+    // 每天重新抓一次 daily top
+    setInterval(fetchWallpapers, 24 * 60 * 60 * 1000);
+  </script>
+</body>
+</html>

@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch Wallhaven daily top
         run: |
-          curl -L "https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=toplist&topRange=1d&atleast=1920x1080&ratios=16x9,16x10&per_page=100" \
+          curl -L "https://wallhaven.cc/api/v1/search?categories=010&purity=100&sorting=toplist&topRange=1M&atleast=1920x1080&ratios=16x9,16x10&per_page=100" \
           -o raw.json
 
           jq '[.data[] | {

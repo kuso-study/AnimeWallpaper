@@ -4,8 +4,8 @@
     "url": "https://w.wallhaven.cc/full/yq/wallhaven-yqkl97.jpg",
     "resolution": "2074x1166",
     "ratio": "1.78",
-    "views": 31752,
-    "favorites": 281,
+    "views": 32113,
+    "favorites": 285,
     "colors": [
       "#424153",
       "#663399",
@@ -21,8 +21,8 @@
     "url": "https://w.wallhaven.cc/full/qr/wallhaven-qrppoq.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 7812,
-    "favorites": 49,
+    "views": 7914,
+    "favorites": 51,
     "colors": [
       "#000000",
       "#424153",
@@ -34,11 +34,28 @@
     "source": "monthly_top"
   },
   {
+    "id": "xekg7z",
+    "url": "https://w.wallhaven.cc/full/xe/wallhaven-xekg7z.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 7643,
+    "favorites": 169,
+    "colors": [
+      "#000000",
+      "#cc0000",
+      "#ff6600",
+      "#660000",
+      "#990000"
+    ],
+    "tags": [],
+    "source": "monthly_top"
+  },
+  {
     "id": "rqez2j",
     "url": "https://w.wallhaven.cc/full/rq/wallhaven-rqez2j.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 7495,
+    "views": 7614,
     "favorites": 72,
     "colors": [
       "#fdadc7",
@@ -51,29 +68,12 @@
     "source": "monthly_top"
   },
   {
-    "id": "xekg7z",
-    "url": "https://w.wallhaven.cc/full/xe/wallhaven-xekg7z.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 7521,
-    "favorites": 168,
-    "colors": [
-      "#000000",
-      "#cc0000",
-      "#ff6600",
-      "#660000",
-      "#990000"
-    ],
-    "tags": [],
-    "source": "monthly_top"
-  },
-  {
     "id": "5yp939",
     "url": "https://w.wallhaven.cc/full/5y/wallhaven-5yp939.png",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 6477,
-    "favorites": 97,
+    "views": 6648,
+    "favorites": 99,
     "colors": [
       "#000000",
       "#424153",
@@ -85,28 +85,11 @@
     "source": "monthly_top"
   },
   {
-    "id": "jellmp",
-    "url": "https://w.wallhaven.cc/full/je/wallhaven-jellmp.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 6297,
-    "favorites": 104,
-    "colors": [
-      "#ffffff",
-      "#cccccc",
-      "#000000",
-      "#999999",
-      "#424153"
-    ],
-    "tags": [],
-    "source": "monthly_top"
-  },
-  {
     "id": "mloe19",
     "url": "https://w.wallhaven.cc/full/ml/wallhaven-mloe19.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 6273,
+    "views": 6382,
     "favorites": 59,
     "colors": [
       "#cccccc",
@@ -119,12 +102,29 @@
     "source": "monthly_top"
   },
   {
+    "id": "jellmp",
+    "url": "https://w.wallhaven.cc/full/je/wallhaven-jellmp.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 6376,
+    "favorites": 104,
+    "colors": [
+      "#ffffff",
+      "#cccccc",
+      "#000000",
+      "#999999",
+      "#424153"
+    ],
+    "tags": [],
+    "source": "monthly_top"
+  },
+  {
     "id": "9okw2k",
     "url": "https://w.wallhaven.cc/full/9o/wallhaven-9okw2k.jpg",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 5922,
-    "favorites": 69,
+    "views": 6015,
+    "favorites": 71,
     "colors": [
       "#000000",
       "#424153",
@@ -140,8 +140,8 @@
     "url": "https://w.wallhaven.cc/full/8g/wallhaven-8g8pxo.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 5473,
-    "favorites": 105,
+    "views": 5532,
+    "favorites": 108,
     "colors": [
       "#ea4c88",
       "#424153",
@@ -157,8 +157,8 @@
     "url": "https://w.wallhaven.cc/full/e8/wallhaven-e8v15k.png",
     "resolution": "3200x1800",
     "ratio": "1.78",
-    "views": 5237,
-    "favorites": 53,
+    "views": 5324,
+    "favorites": 54,
     "colors": [
       "#cccccc",
       "#000000",
@@ -174,7 +174,7 @@
     "url": "https://w.wallhaven.cc/full/qr/wallhaven-qrpex7.jpg",
     "resolution": "4382x2465",
     "ratio": "1.78",
-    "views": 5070,
+    "views": 5127,
     "favorites": 137,
     "colors": [
       "#424153",
@@ -191,8 +191,8 @@
     "url": "https://w.wallhaven.cc/full/d8/wallhaven-d8vv9o.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 4872,
-    "favorites": 30,
+    "views": 4934,
+    "favorites": 32,
     "colors": [
       "#000000",
       "#999999",
@@ -208,7 +208,7 @@
     "url": "https://w.wallhaven.cc/full/gw/wallhaven-gw11gd.jpg",
     "resolution": "4500x2532",
     "ratio": "1.78",
-    "views": 4788,
+    "views": 4845,
     "favorites": 87,
     "colors": [
       "#424153",
@@ -225,7 +225,7 @@
     "url": "https://w.wallhaven.cc/full/ml/wallhaven-mloo6m.jpg",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 4712,
+    "views": 4785,
     "favorites": 53,
     "colors": [
       "#cccccc",
@@ -242,7 +242,7 @@
     "url": "https://w.wallhaven.cc/full/gw/wallhaven-gw1vyl.jpg",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 4678,
+    "views": 4728,
     "favorites": 157,
     "colors": [
       "#424153",
@@ -259,8 +259,8 @@
     "url": "https://w.wallhaven.cc/full/e8/wallhaven-e8vqgl.png",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 4513,
-    "favorites": 80,
+    "views": 4590,
+    "favorites": 81,
     "colors": [
       "#000000",
       "#cc3333",
@@ -276,8 +276,8 @@
     "url": "https://w.wallhaven.cc/full/je/wallhaven-jel73p.png",
     "resolution": "5311x2988",
     "ratio": "1.78",
-    "views": 4451,
-    "favorites": 71,
+    "views": 4532,
+    "favorites": 72,
     "colors": [
       "#424153",
       "#999999",
@@ -293,8 +293,8 @@
     "url": "https://w.wallhaven.cc/full/1q/wallhaven-1qoegw.jpg",
     "resolution": "3200x1800",
     "ratio": "1.78",
-    "views": 4205,
-    "favorites": 85,
+    "views": 4263,
+    "favorites": 86,
     "colors": [
       "#424153",
       "#996633",
@@ -310,7 +310,7 @@
     "url": "https://w.wallhaven.cc/full/21/wallhaven-216xmy.jpg",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 4153,
+    "views": 4203,
     "favorites": 74,
     "colors": [
       "#424153",
@@ -327,7 +327,7 @@
     "url": "https://w.wallhaven.cc/full/rq/wallhaven-rqe6mj.png",
     "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 4039,
+    "views": 4085,
     "favorites": 59,
     "colors": [
       "#000000",
@@ -344,8 +344,8 @@
     "url": "https://w.wallhaven.cc/full/8g/wallhaven-8g8wvy.png",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 3825,
-    "favorites": 30,
+    "views": 3903,
+    "favorites": 31,
     "colors": [
       "#660000",
       "#000000",
@@ -361,7 +361,7 @@
     "url": "https://w.wallhaven.cc/full/7j/wallhaven-7jxx19.jpg",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 3727,
+    "views": 3779,
     "favorites": 16,
     "colors": [
       "#000000",
@@ -378,8 +378,8 @@
     "url": "https://w.wallhaven.cc/full/w5/wallhaven-w53k9q.jpg",
     "resolution": "3000x1688",
     "ratio": "1.78",
-    "views": 3693,
-    "favorites": 97,
+    "views": 3755,
+    "favorites": 98,
     "colors": [
       "#424153",
       "#999999",
@@ -395,7 +395,7 @@
     "url": "https://w.wallhaven.cc/full/xe/wallhaven-xekyoo.png",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 3493,
+    "views": 3538,
     "favorites": 60,
     "colors": [
       "#ea4c88",
@@ -408,203 +408,101 @@
     "source": "monthly_top"
   },
   {
-    "id": "p8jxpm",
-    "url": "https://w.wallhaven.cc/full/p8/wallhaven-p8jxpm.png",
-    "resolution": "1920x1080",
+    "id": "q6r18l",
+    "url": "https://w.wallhaven.cc/full/q6/wallhaven-q6r18l.png",
+    "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 2775,
-    "favorites": 20,
+    "views": 3608,
+    "favorites": 27,
     "colors": [
       "#424153",
       "#000000",
-      "#336600",
-      "#996633",
-      "#999999"
+      "#663300",
+      "#cc3333",
+      "#333399"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "7pwy3o",
-    "url": "https://w.wallhaven.cc/full/7p/wallhaven-7pwy3o.png",
+    "id": "83yxkk",
+    "url": "https://w.wallhaven.cc/full/83/wallhaven-83yxkk.jpg",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 1453,
+    "favorites": 11,
+    "colors": [
+      "#ffffff",
+      "#424153",
+      "#000000",
+      "#e7d8b1",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "g8e893",
+    "url": "https://w.wallhaven.cc/full/g8/wallhaven-g8e893.png",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 3031,
-    "favorites": 61,
+    "views": 2557,
+    "favorites": 51,
+    "colors": [
+      "#999999",
+      "#424153",
+      "#996633",
+      "#cccccc",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "2eqlem",
+    "url": "https://w.wallhaven.cc/full/2e/wallhaven-2eqlem.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 2176,
+    "favorites": 16,
+    "colors": [
+      "#e7d8b1",
+      "#424153",
+      "#663300",
+      "#999999",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "2kw6oy",
+    "url": "https://w.wallhaven.cc/full/2k/wallhaven-2kw6oy.jpg",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 3180,
+    "favorites": 11,
     "colors": [
       "#424153",
-      "#999999",
       "#ffffff",
-      "#cccccc",
+      "#e7d8b1",
+      "#999999",
       "#fdadc7"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "3k5ej3",
-    "url": "https://w.wallhaven.cc/full/3k/wallhaven-3k5ej3.jpg",
+    "id": "498o3w",
+    "url": "https://w.wallhaven.cc/full/49/wallhaven-498o3w.jpg",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 5022,
-    "favorites": 18,
+    "views": 8422,
+    "favorites": 41,
     "colors": [
-      "#000000",
-      "#424153",
       "#e7d8b1",
-      "#996633",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "r7yrkw",
-    "url": "https://w.wallhaven.cc/full/r7/wallhaven-r7yrkw.png",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 7926,
-    "favorites": 50,
-    "colors": [
-      "#000000",
-      "#999999",
-      "#e7d8b1",
-      "#996633",
-      "#424153"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "vggzpl",
-    "url": "https://w.wallhaven.cc/full/vg/wallhaven-vggzpl.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 6432,
-    "favorites": 49,
-    "colors": [
-      "#999999",
-      "#333399",
-      "#663399",
-      "#abbcda",
-      "#424153"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "o56dr9",
-    "url": "https://w.wallhaven.cc/full/o5/wallhaven-o56dr9.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 1861,
-    "favorites": 5,
-    "colors": [
-      "#000000",
+      "#fdadc7",
       "#424153",
-      "#999999",
-      "#996633",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "g786de",
-    "url": "https://w.wallhaven.cc/full/g7/wallhaven-g786de.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2173,
-    "favorites": 4,
-    "colors": [
-      "#999999",
-      "#ffffff",
-      "#424153",
-      "#660000",
-      "#cccccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "j8pq8w",
-    "url": "https://w.wallhaven.cc/full/j8/wallhaven-j8pq8w.jpg",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 6111,
-    "favorites": 22,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#996633",
-      "#999999",
-      "#e7d8b1"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "j55wdw",
-    "url": "https://w.wallhaven.cc/full/j5/wallhaven-j55wdw.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3870,
-    "favorites": 36,
-    "colors": [
-      "#ffffff",
-      "#cccccc",
-      "#999999",
-      "#424153",
-      "#e7d8b1"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "eozg8l",
-    "url": "https://w.wallhaven.cc/full/eo/wallhaven-eozg8l.jpg",
-    "resolution": "2008x1130",
-    "ratio": "1.78",
-    "views": 7385,
-    "favorites": 23,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#663399",
-      "#663300",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "rd1d6w",
-    "url": "https://w.wallhaven.cc/full/rd/wallhaven-rd1d6w.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 1991,
-    "favorites": 3,
-    "colors": [
-      "#ffffff",
-      "#999999",
-      "#e7d8b1",
-      "#cccccc",
-      "#66cccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "j81185",
-    "url": "https://w.wallhaven.cc/full/j8/wallhaven-j81185.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3659,
-    "favorites": 14,
-    "colors": [
-      "#ffffff",
-      "#424153",
-      "#e7d8b1",
       "#999999",
       "#000000"
     ],
@@ -612,1019 +510,509 @@
     "source": "random_fill"
   },
   {
-    "id": "2yg8zx",
-    "url": "https://w.wallhaven.cc/full/2y/wallhaven-2yg8zx.jpg",
-    "resolution": "6000x3750",
-    "ratio": "1.6",
-    "views": 4293,
-    "favorites": 40,
+    "id": "5d23v1",
+    "url": "https://w.wallhaven.cc/full/5d/wallhaven-5d23v1.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4527,
+    "favorites": 12,
     "colors": [
-      "#66cccc",
-      "#424153",
-      "#0099cc",
-      "#996633",
-      "#999999"
+      "#ea4c88",
+      "#993399",
+      "#fdadc7",
+      "#663399",
+      "#424153"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "851ko1",
-    "url": "https://w.wallhaven.cc/full/85/wallhaven-851ko1.png",
+    "id": "odr895",
+    "url": "https://w.wallhaven.cc/full/od/wallhaven-odr895.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 17086,
+    "favorites": 105,
+    "colors": [
+      "#66cccc",
+      "#424153",
+      "#ea4c88",
+      "#999999",
+      "#663399"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "lyzvl2",
+    "url": "https://w.wallhaven.cc/full/ly/wallhaven-lyzvl2.png",
+    "resolution": "3179x1790",
+    "ratio": "1.78",
+    "views": 820,
+    "favorites": 2,
+    "colors": [
+      "#ffcc33",
+      "#ff9900",
+      "#424153",
+      "#000000",
+      "#ff6600"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "4lxyqr",
+    "url": "https://w.wallhaven.cc/full/4l/wallhaven-4lxyqr.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2267,
+    "favorites": 7,
+    "colors": [
+      "#ffffff",
+      "#e7d8b1",
+      "#999999",
+      "#cccccc",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "4xywl3",
+    "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xywl3.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2989,
+    "favorites": 17,
+    "colors": [
+      "#ffffff",
+      "#996633",
+      "#663300",
+      "#cc3333",
+      "#e7d8b1"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "7pro8v",
+    "url": "https://w.wallhaven.cc/full/7p/wallhaven-7pro8v.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3928,
+    "favorites": 15,
+    "colors": [
+      "#0099cc",
+      "#0066cc",
+      "#66cccc",
+      "#333399",
+      "#424153"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "nk8zdm",
+    "url": "https://w.wallhaven.cc/full/nk/wallhaven-nk8zdm.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 5966,
+    "favorites": 53,
+    "colors": [
+      "#000000",
+      "#424153",
+      "#999999",
+      "#cccccc",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "wqe8xq",
+    "url": "https://w.wallhaven.cc/full/wq/wallhaven-wqe8xq.jpg",
     "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 1982,
-    "favorites": 14,
+    "views": 2621,
+    "favorites": 7,
+    "colors": [
+      "#cc6633",
+      "#663300",
+      "#996633",
+      "#000000",
+      "#ffcc33"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "0jop15",
+    "url": "https://w.wallhaven.cc/full/0j/wallhaven-0jop15.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3731,
+    "favorites": 8,
+    "colors": [
+      "#424153",
+      "#333399",
+      "#000000",
+      "#66cccc",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "73y1ve",
+    "url": "https://w.wallhaven.cc/full/73/wallhaven-73y1ve.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 4647,
+    "favorites": 21,
+    "colors": [
+      "#ffffff",
+      "#999999",
+      "#cccccc",
+      "#000000",
+      "#cc3333"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "wyk93p",
+    "url": "https://w.wallhaven.cc/full/wy/wallhaven-wyk93p.jpg",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 13762,
+    "favorites": 86,
     "colors": [
       "#ffffff",
       "#abbcda",
       "#cccccc",
-      "#66cccc",
-      "#999999"
+      "#999999",
+      "#996633"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "28d5ox",
-    "url": "https://w.wallhaven.cc/full/28/wallhaven-28d5ox.jpg",
-    "resolution": "3840x2160",
+    "id": "rd6d6q",
+    "url": "https://w.wallhaven.cc/full/rd/wallhaven-rd6d6q.png",
+    "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 3906,
-    "favorites": 10,
+    "views": 1176,
+    "favorites": 16,
     "colors": [
+      "#cccccc",
       "#000000",
-      "#663300",
       "#424153",
-      "#996633",
+      "#999999",
       "#660000"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "4ygrpk",
-    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4ygrpk.jpg",
-    "resolution": "2560x1600",
-    "ratio": "1.6",
-    "views": 7649,
-    "favorites": 33,
+    "id": "83qwky",
+    "url": "https://w.wallhaven.cc/full/83/wallhaven-83qwky.png",
+    "resolution": "5145x2894",
+    "ratio": "1.78",
+    "views": 5310,
+    "favorites": 49,
     "colors": [
-      "#66cccc",
-      "#0066cc",
       "#000000",
       "#424153",
-      "#333399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "j8ze2y",
-    "url": "https://w.wallhaven.cc/full/j8/wallhaven-j8ze2y.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3249,
-    "favorites": 19,
-    "colors": [
-      "#424153",
-      "#663399",
-      "#999999",
-      "#abbcda",
-      "#cccccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "k9gw11",
-    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9gw11.jpg",
-    "resolution": "2732x1536",
-    "ratio": "1.78",
-    "views": 2526,
-    "favorites": 3,
-    "colors": [
       "#ffffff",
-      "#000000",
-      "#999999",
-      "#abbcda",
-      "#424153"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "xlejlz",
-    "url": "https://w.wallhaven.cc/full/xl/wallhaven-xlejlz.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 6725,
-    "favorites": 10,
-    "colors": [
-      "#424153",
       "#996633",
+      "#999999"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "5wyzj5",
+    "url": "https://w.wallhaven.cc/full/5w/wallhaven-5wyzj5.png",
+    "resolution": "2000x1125",
+    "ratio": "1.78",
+    "views": 1380,
+    "favorites": 6,
+    "colors": [
+      "#e7d8b1",
+      "#000000",
       "#999999",
-      "#666600",
-      "#663399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "nmw9dy",
-    "url": "https://w.wallhaven.cc/full/nm/wallhaven-nmw9dy.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 21210,
-    "favorites": 85,
-    "colors": [
       "#424153",
-      "#333399",
-      "#000000",
-      "#0066cc",
-      "#0099cc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "95519d",
-    "url": "https://w.wallhaven.cc/full/95/wallhaven-95519d.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3550,
-    "favorites": 9,
-    "colors": [
-      "#660000",
-      "#cccccc",
-      "#000000",
-      "#990000",
       "#ffffff"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "4oj2jm",
-    "url": "https://w.wallhaven.cc/full/4o/wallhaven-4oj2jm.jpg",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 3475,
-    "favorites": 14,
-    "colors": [
-      "#cccccc",
-      "#999999",
-      "#ffffff",
-      "#abbcda",
-      "#663399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "4ym8m7",
-    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4ym8m7.jpg",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 9998,
-    "favorites": 22,
-    "colors": [
-      "#cccccc",
-      "#999999",
-      "#ffffff",
-      "#abbcda",
-      "#000000"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "rr3rgw",
-    "url": "https://w.wallhaven.cc/full/rr/wallhaven-rr3rgw.png",
+    "id": "2keem6",
+    "url": "https://w.wallhaven.cc/full/2k/wallhaven-2keem6.jpg",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 1784,
-    "favorites": 17,
+    "views": 4901,
+    "favorites": 5,
     "colors": [
-      "#66cccc",
-      "#424153",
-      "#333399",
-      "#0066cc",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "n6695l",
-    "url": "https://w.wallhaven.cc/full/n6/wallhaven-n6695l.jpg",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 4664,
-    "favorites": 15,
-    "colors": [
-      "#424153",
-      "#000000",
-      "#999999",
-      "#cccccc",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "o5gj19",
-    "url": "https://w.wallhaven.cc/full/o5/wallhaven-o5gj19.jpg",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 3940,
-    "favorites": 30,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#999999",
-      "#663300",
-      "#996633"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "7pgg99",
-    "url": "https://w.wallhaven.cc/full/7p/wallhaven-7pgg99.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 1855,
-    "favorites": 24,
-    "colors": [
-      "#ffffff",
-      "#424153",
-      "#999999",
-      "#cccccc",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "4v9qom",
-    "url": "https://w.wallhaven.cc/full/4v/wallhaven-4v9qom.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 13055,
-    "favorites": 54,
-    "colors": [
-      "#000000",
-      "#663300",
-      "#424153",
-      "#660000",
-      "#cc6633"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "vqd1yl",
-    "url": "https://w.wallhaven.cc/full/vq/wallhaven-vqd1yl.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3128,
-    "favorites": 50,
-    "colors": [
-      "#999999",
-      "#000000",
-      "#cccccc",
-      "#424153",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "g7mygq",
-    "url": "https://w.wallhaven.cc/full/g7/wallhaven-g7mygq.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 54737,
-    "favorites": 82,
-    "colors": [
-      "#663300",
-      "#424153",
-      "#000000",
       "#996633",
-      "#e7d8b1"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "5yro25",
-    "url": "https://w.wallhaven.cc/full/5y/wallhaven-5yro25.jpg",
-    "resolution": "3200x1800",
-    "ratio": "1.78",
-    "views": 994,
-    "favorites": 9,
-    "colors": [
-      "#ffffff",
+      "#cc6633",
       "#e7d8b1",
-      "#fdadc7",
-      "#abbcda",
+      "#999999",
       "#ea4c88"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "4y62ld",
-    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4y62ld.jpg",
-    "resolution": "1920x1200",
+    "id": "5786d1",
+    "url": "https://w.wallhaven.cc/full/57/wallhaven-5786d1.jpg",
+    "resolution": "2560x1600",
     "ratio": "1.6",
-    "views": 4891,
-    "favorites": 19,
+    "views": 7452,
+    "favorites": 77,
     "colors": [
-      "#000000",
-      "#424153",
-      "#996633",
-      "#0066cc",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "og7jpp",
-    "url": "https://w.wallhaven.cc/full/og/wallhaven-og7jpp.png",
-    "resolution": "7680x4320",
-    "ratio": "1.78",
-    "views": 1395,
-    "favorites": 20,
-    "colors": [
-      "#e7d8b1",
-      "#336600",
-      "#996633",
       "#999999",
-      "#424153"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "3z2j9y",
-    "url": "https://w.wallhaven.cc/full/3z/wallhaven-3z2j9y.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 5829,
-    "favorites": 28,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#999999",
-      "#ffffff",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "y8277x",
-    "url": "https://w.wallhaven.cc/full/y8/wallhaven-y8277x.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 8327,
-    "favorites": 61,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#e7d8b1",
-      "#663300",
-      "#996633"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "qzokeq",
-    "url": "https://w.wallhaven.cc/full/qz/wallhaven-qzokeq.png",
-    "resolution": "2560x1440",
-    "ratio": "1.78",
-    "views": 5253,
-    "favorites": 42,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#663300",
-      "#999999",
-      "#996633"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "g7ze63",
-    "url": "https://w.wallhaven.cc/full/g7/wallhaven-g7ze63.jpg",
-    "resolution": "2560x1440",
-    "ratio": "1.78",
-    "views": 6814,
-    "favorites": 57,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#ffffff",
-      "#999999",
-      "#cccccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "q2qog7",
-    "url": "https://w.wallhaven.cc/full/q2/wallhaven-q2qog7.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 1939,
-    "favorites": 9,
-    "colors": [
       "#cccccc",
-      "#996633",
-      "#999999",
-      "#e7d8b1",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "k9x8o1",
-    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9x8o1.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 2830,
-    "favorites": 15,
-    "colors": [
-      "#000000",
-      "#660000",
-      "#663300",
-      "#ffffff",
-      "#cc0000"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "01lrg3",
-    "url": "https://w.wallhaven.cc/full/01/wallhaven-01lrg3.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 5577,
-    "favorites": 26,
-    "colors": [
-      "#ffffff",
       "#424153",
-      "#cccccc",
-      "#999999",
-      "#e7d8b1"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "72ov8v",
-    "url": "https://w.wallhaven.cc/full/72/wallhaven-72ov8v.jpg",
-    "resolution": "5600x3150",
-    "ratio": "1.78",
-    "views": 50309,
-    "favorites": 405,
-    "colors": [
-      "#424153",
-      "#996633",
-      "#999999",
-      "#e7d8b1",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "1pzl23",
-    "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pzl23.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2267,
-    "favorites": 17,
-    "colors": [
-      "#000000",
-      "#660000",
-      "#cc3333",
-      "#424153",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "0wex8x",
-    "url": "https://w.wallhaven.cc/full/0w/wallhaven-0wex8x.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2531,
-    "favorites": 3,
-    "colors": [
-      "#0099cc",
-      "#ffffff",
-      "#e7d8b1",
-      "#424153",
-      "#cccccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "3l8km9",
-    "url": "https://w.wallhaven.cc/full/3l/wallhaven-3l8km9.jpg",
-    "resolution": "7680x4320",
-    "ratio": "1.78",
-    "views": 3092,
-    "favorites": 34,
-    "colors": [
-      "#0099cc",
-      "#424153",
-      "#000000",
-      "#0066cc",
-      "#333399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "m3m98y",
-    "url": "https://w.wallhaven.cc/full/m3/wallhaven-m3m98y.png",
-    "resolution": "2560x1440",
-    "ratio": "1.78",
-    "views": 2775,
-    "favorites": 25,
-    "colors": [
-      "#424153",
-      "#000000",
-      "#333399",
-      "#999999",
-      "#663399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "exdeok",
-    "url": "https://w.wallhaven.cc/full/ex/wallhaven-exdeok.png",
-    "resolution": "2560x1440",
-    "ratio": "1.78",
-    "views": 3737,
-    "favorites": 38,
-    "colors": [
-      "#990000",
-      "#cc3333",
-      "#996633",
-      "#999999",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "1kqprv",
-    "url": "https://w.wallhaven.cc/full/1k/wallhaven-1kqprv.jpg",
-    "resolution": "2560x1440",
-    "ratio": "1.78",
-    "views": 3006,
-    "favorites": 13,
-    "colors": [
-      "#ffffff",
-      "#e7d8b1",
-      "#cccccc",
       "#abbcda",
-      "#fdadc7"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "e7857l",
-    "url": "https://w.wallhaven.cc/full/e7/wallhaven-e7857l.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 3062,
-    "favorites": 19,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#996633",
-      "#663300",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "85depy",
-    "url": "https://w.wallhaven.cc/full/85/wallhaven-85depy.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 4306,
-    "favorites": 33,
-    "colors": [
-      "#ffffff",
-      "#e7d8b1",
-      "#ea4c88",
-      "#cccccc",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "13l1jv",
-    "url": "https://w.wallhaven.cc/full/13/wallhaven-13l1jv.png",
-    "resolution": "4160x2340",
-    "ratio": "1.78",
-    "views": 2642,
-    "favorites": 14,
-    "colors": [
-      "#424153",
-      "#000000",
-      "#999999",
-      "#663300",
-      "#663399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "dgzzq3",
-    "url": "https://w.wallhaven.cc/full/dg/wallhaven-dgzzq3.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2101,
-    "favorites": 18,
-    "colors": [
-      "#cccccc",
-      "#999999",
-      "#ffffff",
-      "#424153",
-      "#e7d8b1"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "5w1yq7",
-    "url": "https://w.wallhaven.cc/full/5w/wallhaven-5w1yq7.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2030,
-    "favorites": 6,
-    "colors": [
-      "#000000",
-      "#424153",
-      "#333399",
-      "#999999",
       "#66cccc"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "w8qolq",
-    "url": "https://w.wallhaven.cc/full/w8/wallhaven-w8qolq.png",
-    "resolution": "1920x1080",
+    "id": "k8kdqm",
+    "url": "https://w.wallhaven.cc/full/k8/wallhaven-k8kdqm.png",
+    "resolution": "2560x1440",
     "ratio": "1.78",
-    "views": 4309,
-    "favorites": 23,
+    "views": 9087,
+    "favorites": 148,
     "colors": [
-      "#996633",
-      "#424153",
-      "#663300",
       "#000000",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "6qqjvq",
-    "url": "https://w.wallhaven.cc/full/6q/wallhaven-6qqjvq.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 2264,
-    "favorites": 14,
-    "colors": [
-      "#e7d8b1",
-      "#fdadc7",
-      "#999999",
-      "#ffffff",
-      "#cccccc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "jx62gp",
-    "url": "https://w.wallhaven.cc/full/jx/wallhaven-jx62gp.jpg",
-    "resolution": "4096x2304",
-    "ratio": "1.78",
-    "views": 5352,
-    "favorites": 67,
-    "colors": [
-      "#ffffff",
-      "#fdadc7",
-      "#999999",
-      "#cccccc",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "mdgp1k",
-    "url": "https://w.wallhaven.cc/full/md/wallhaven-mdgp1k.jpg",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 4304,
-    "favorites": 47,
-    "colors": [
-      "#ffffff",
-      "#000000",
-      "#cccccc",
-      "#fdadc7",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "13w313",
-    "url": "https://w.wallhaven.cc/full/13/wallhaven-13w313.jpg",
-    "resolution": "2560x1600",
-    "ratio": "1.6",
-    "views": 1906,
-    "favorites": 30,
-    "colors": [
       "#424153",
-      "#999999",
-      "#66cccc",
       "#e7d8b1",
+      "#999999",
       "#996633"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "95dmkx",
-    "url": "https://w.wallhaven.cc/full/95/wallhaven-95dmkx.png",
-    "resolution": "1920x1080",
+    "id": "k7r93m",
+    "url": "https://w.wallhaven.cc/full/k7/wallhaven-k7r93m.jpg",
+    "resolution": "2100x1181",
     "ratio": "1.78",
-    "views": 6204,
-    "favorites": 17,
+    "views": 4575,
+    "favorites": 63,
     "colors": [
-      "#000000",
+      "#999999",
       "#424153",
-      "#663300",
-      "#660000",
-      "#996633"
+      "#abbcda",
+      "#cccccc",
+      "#66cccc"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "426gvg",
-    "url": "https://w.wallhaven.cc/full/42/wallhaven-426gvg.jpg",
+    "id": "k96vlm",
+    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k96vlm.png",
     "resolution": "2880x1800",
     "ratio": "1.6",
-    "views": 3238,
-    "favorites": 8,
+    "views": 2043,
+    "favorites": 7,
     "colors": [
-      "#000000",
-      "#663300",
-      "#660000",
+      "#fdadc7",
+      "#ea4c88",
+      "#e7d8b1",
       "#424153",
-      "#996633"
+      "#999999"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "72q96e",
-    "url": "https://w.wallhaven.cc/full/72/wallhaven-72q96e.jpg",
-    "resolution": "1920x1080",
+    "id": "83g25y",
+    "url": "https://w.wallhaven.cc/full/83/wallhaven-83g25y.jpg",
+    "resolution": "2559x1440",
     "ratio": "1.78",
-    "views": 1925,
-    "favorites": 1,
+    "views": 5453,
+    "favorites": 53,
     "colors": [
-      "#cccccc",
-      "#666600",
-      "#336600",
+      "#424153",
+      "#000000",
       "#996633",
-      "#999900"
+      "#999999",
+      "#663399"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "mp1vmy",
-    "url": "https://w.wallhaven.cc/full/mp/wallhaven-mp1vmy.png",
-    "resolution": "3111x1750",
+    "id": "4xe52l",
+    "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xe52l.jpg",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 4017,
+    "favorites": 24,
+    "colors": [
+      "#ffffff",
+      "#e7d8b1",
+      "#999999",
+      "#cccccc",
+      "#fdadc7"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "zx3x8g",
+    "url": "https://w.wallhaven.cc/full/zx/wallhaven-zx3x8g.jpg",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 3939,
+    "favorites": 29,
+    "colors": [
+      "#ffffff",
+      "#424153",
+      "#e7d8b1",
+      "#cccccc",
+      "#999999"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "p9qx2m",
+    "url": "https://w.wallhaven.cc/full/p9/wallhaven-p9qx2m.png",
+    "resolution": "3840x2160",
     "ratio": "1.78",
-    "views": 6014,
-    "favorites": 14,
+    "views": 2464,
+    "favorites": 24,
     "colors": [
       "#cccccc",
+      "#e7d8b1",
       "#999999",
       "#424153",
-      "#000000",
       "#ffffff"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "4y1y6l",
-    "url": "https://w.wallhaven.cc/full/4y/wallhaven-4y1y6l.png",
+    "id": "1pgjzg",
+    "url": "https://w.wallhaven.cc/full/1p/wallhaven-1pgjzg.png",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 5640,
-    "favorites": 52,
+    "views": 7923,
+    "favorites": 50,
     "colors": [
-      "#000000",
       "#424153",
-      "#ffffff",
-      "#cccccc",
-      "#999999"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "yqvvjd",
-    "url": "https://w.wallhaven.cc/full/yq/wallhaven-yqvvjd.jpg",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 723,
-    "favorites": 14,
-    "colors": [
-      "#ffffff",
+      "#999999",
       "#e7d8b1",
-      "#999999",
-      "#cccccc",
-      "#abbcda"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "3q28k6",
-    "url": "https://w.wallhaven.cc/full/3q/wallhaven-3q28k6.png",
-    "resolution": "7680x4320",
-    "ratio": "1.78",
-    "views": 569,
-    "favorites": 8,
-    "colors": [
-      "#424153",
-      "#000000",
-      "#333399",
-      "#66cccc",
-      "#0099cc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "w53jo6",
-    "url": "https://w.wallhaven.cc/full/w5/wallhaven-w53jo6.jpg",
-    "resolution": "2500x1404",
-    "ratio": "1.78",
-    "views": 984,
-    "favorites": 18,
-    "colors": [
-      "#424153",
-      "#000000",
       "#996633",
-      "#999999",
-      "#663300"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "nr5oyq",
-    "url": "https://w.wallhaven.cc/full/nr/wallhaven-nr5oyq.jpg",
-    "resolution": "2240x1260",
-    "ratio": "1.78",
-    "views": 3160,
-    "favorites": 6,
-    "colors": [
-      "#0066cc",
-      "#333399",
-      "#66cccc",
-      "#424153",
-      "#0099cc"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "neg8xo",
-    "url": "https://w.wallhaven.cc/full/ne/wallhaven-neg8xo.png",
-    "resolution": "1920x1200",
-    "ratio": "1.6",
-    "views": 4586,
-    "favorites": 12,
-    "colors": [
-      "#abbcda",
-      "#ffffff",
-      "#cccccc",
-      "#66cccc",
-      "#333399"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "95v5vx",
-    "url": "https://w.wallhaven.cc/full/95/wallhaven-95v5vx.png",
-    "resolution": "1920x1080",
-    "ratio": "1.78",
-    "views": 1865,
-    "favorites": 5,
-    "colors": [
-      "#424153",
-      "#996633",
-      "#663300",
-      "#999999",
       "#000000"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "x8zxvd",
-    "url": "https://w.wallhaven.cc/full/x8/wallhaven-x8zxvd.png",
-    "resolution": "2560x1440",
+    "id": "zyo8wo",
+    "url": "https://w.wallhaven.cc/full/zy/wallhaven-zyo8wo.png",
+    "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 3143,
-    "favorites": 26,
+    "views": 5104,
+    "favorites": 47,
     "colors": [
-      "#ffffff",
-      "#66cccc",
-      "#e7d8b1",
-      "#999999",
+      "#000000",
+      "#424153",
+      "#663300",
+      "#663399",
       "#996633"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "je8j7m",
-    "url": "https://w.wallhaven.cc/full/je/wallhaven-je8j7m.png",
-    "resolution": "3840x2160",
+    "id": "83pv3o",
+    "url": "https://w.wallhaven.cc/full/83/wallhaven-83pv3o.png",
+    "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 2968,
-    "favorites": 10,
+    "views": 2828,
+    "favorites": 22,
     "colors": [
-      "#000000",
-      "#424153",
-      "#999999",
-      "#660000",
-      "#ffff00"
-    ],
-    "tags": [],
-    "source": "random_fill"
-  },
-  {
-    "id": "9ozwkk",
-    "url": "https://w.wallhaven.cc/full/9o/wallhaven-9ozwkk.png",
-    "resolution": "3840x2160",
-    "ratio": "1.78",
-    "views": 5381,
-    "favorites": 70,
-    "colors": [
+      "#ffcc33",
+      "#cc6633",
       "#e7d8b1",
       "#999999",
-      "#77cc33",
-      "#ffffff",
       "#cccccc"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "d6kjwo",
-    "url": "https://w.wallhaven.cc/full/d6/wallhaven-d6kjwo.png",
+    "id": "8xjlw1",
+    "url": "https://w.wallhaven.cc/full/8x/wallhaven-8xjlw1.png",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 4454,
-    "favorites": 47,
+    "views": 2441,
+    "favorites": 9,
+    "colors": [
+      "#333399",
+      "#424153",
+      "#abbcda",
+      "#999999",
+      "#cccccc"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "w8yml7",
+    "url": "https://w.wallhaven.cc/full/w8/wallhaven-w8yml7.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4950,
+    "favorites": 18,
+    "colors": [
+      "#424153",
+      "#999999",
+      "#996633",
+      "#663300",
+      "#663399"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "kx39wd",
+    "url": "https://w.wallhaven.cc/full/kx/wallhaven-kx39wd.jpg",
+    "resolution": "5333x3000",
+    "ratio": "1.78",
+    "views": 2582,
+    "favorites": 36,
+    "colors": [
+      "#999999",
+      "#424153",
+      "#996633",
+      "#cccccc",
+      "#e7d8b1"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "ey7lr8",
+    "url": "https://w.wallhaven.cc/full/ey/wallhaven-ey7lr8.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 2413,
+    "favorites": 18,
     "colors": [
       "#424153",
       "#000000",
-      "#ffcc33",
+      "#996633",
       "#999999",
       "#cc6633"
     ],
@@ -1632,33 +1020,594 @@
     "source": "random_fill"
   },
   {
-    "id": "956m6w",
-    "url": "https://w.wallhaven.cc/full/95/wallhaven-956m6w.png",
+    "id": "n617kw",
+    "url": "https://w.wallhaven.cc/full/n6/wallhaven-n617kw.jpg",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 2896,
-    "favorites": 14,
+    "views": 6633,
+    "favorites": 25,
     "colors": [
-      "#e7d8b1",
+      "#66cccc",
+      "#333399",
+      "#0066cc",
+      "#0099cc",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "57qz75",
+    "url": "https://w.wallhaven.cc/full/57/wallhaven-57qz75.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4633,
+    "favorites": 19,
+    "colors": [
+      "#424153",
+      "#000000",
+      "#993399",
+      "#663399",
+      "#ff6600"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "0w32rp",
+    "url": "https://w.wallhaven.cc/full/0w/wallhaven-0w32rp.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 14464,
+    "favorites": 46,
+    "colors": [
+      "#ffffff",
+      "#66cccc",
+      "#424153",
+      "#999999",
+      "#e7d8b1"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "zm721v",
+    "url": "https://w.wallhaven.cc/full/zm/wallhaven-zm721v.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 4567,
+    "favorites": 27,
+    "colors": [
+      "#333399",
       "#000000",
       "#424153",
-      "#ffffff",
+      "#abbcda",
       "#999999"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "8xqzk1",
-    "url": "https://w.wallhaven.cc/full/8x/wallhaven-8xqzk1.png",
+    "id": "pk3dkm",
+    "url": "https://w.wallhaven.cc/full/pk/wallhaven-pk3dkm.jpg",
     "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 2210,
-    "favorites": 15,
+    "views": 4885,
+    "favorites": 32,
+    "colors": [
+      "#663399",
+      "#fdadc7",
+      "#e7d8b1",
+      "#999999",
+      "#cc6633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "4xogz4",
+    "url": "https://w.wallhaven.cc/full/4x/wallhaven-4xogz4.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 6013,
+    "favorites": 30,
+    "colors": [
+      "#0066cc",
+      "#0099cc",
+      "#333399",
+      "#ffffff",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "p83xwe",
+    "url": "https://w.wallhaven.cc/full/p8/wallhaven-p83xwe.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4264,
+    "favorites": 16,
+    "colors": [
+      "#cccccc",
+      "#999999",
+      "#ffffff",
+      "#424153",
+      "#000000"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "4g9mdd",
+    "url": "https://w.wallhaven.cc/full/4g/wallhaven-4g9mdd.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4230,
+    "favorites": 22,
+    "colors": [
+      "#ffffff",
+      "#abbcda",
+      "#0099cc",
+      "#66cccc",
+      "#cccccc"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "39xeev",
+    "url": "https://w.wallhaven.cc/full/39/wallhaven-39xeev.jpg",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 4782,
+    "favorites": 36,
+    "colors": [
+      "#ffffff",
+      "#996633",
+      "#999999",
+      "#424153",
+      "#e7d8b1"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "3l2qdv",
+    "url": "https://w.wallhaven.cc/full/3l/wallhaven-3l2qdv.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3434,
+    "favorites": 8,
+    "colors": [
+      "#000000",
+      "#424153",
+      "#cccccc",
+      "#999999",
+      "#666600"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "gjlom7",
+    "url": "https://w.wallhaven.cc/full/gj/wallhaven-gjlom7.jpg",
+    "resolution": "2880x1800",
+    "ratio": "1.6",
+    "views": 3616,
+    "favorites": 44,
+    "colors": [
+      "#ffffff",
+      "#cccccc",
+      "#996633",
+      "#999999",
+      "#993399"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "g75w6l",
+    "url": "https://w.wallhaven.cc/full/g7/wallhaven-g75w6l.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 3056,
+    "favorites": 17,
+    "colors": [
+      "#424153",
+      "#000000",
+      "#996633",
+      "#cc6633",
+      "#fdadc7"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "rde6vw",
+    "url": "https://w.wallhaven.cc/full/rd/wallhaven-rde6vw.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 1724,
+    "favorites": 4,
+    "colors": [
+      "#66cccc",
+      "#333399",
+      "#999999",
+      "#424153",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "73xwpe",
+    "url": "https://w.wallhaven.cc/full/73/wallhaven-73xwpe.jpg",
+    "resolution": "3537x1990",
+    "ratio": "1.78",
+    "views": 3058,
+    "favorites": 16,
+    "colors": [
+      "#000000",
+      "#abbcda",
+      "#999999",
+      "#e7d8b1",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "eygypw",
+    "url": "https://w.wallhaven.cc/full/ey/wallhaven-eygypw.jpg",
+    "resolution": "5000x2813",
+    "ratio": "1.78",
+    "views": 4247,
+    "favorites": 43,
+    "colors": [
+      "#999999",
+      "#cccccc",
+      "#424153",
+      "#abbcda",
+      "#000000"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "5796z5",
+    "url": "https://w.wallhaven.cc/full/57/wallhaven-5796z5.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 982,
+    "favorites": 10,
+    "colors": [
+      "#e7d8b1",
+      "#663300",
+      "#000000",
+      "#ffcc33",
+      "#660000"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "4g513e",
+    "url": "https://w.wallhaven.cc/full/4g/wallhaven-4g513e.png",
+    "resolution": "1920x1200",
+    "ratio": "1.6",
+    "views": 3231,
+    "favorites": 8,
+    "colors": [
+      "#000000",
+      "#660000",
+      "#424153",
+      "#663300",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "d5mypm",
+    "url": "https://w.wallhaven.cc/full/d5/wallhaven-d5mypm.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4121,
+    "favorites": 20,
+    "colors": [
+      "#ffffff",
+      "#abbcda",
+      "#424153",
+      "#cccccc",
+      "#999999"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "45y6k1",
+    "url": "https://w.wallhaven.cc/full/45/wallhaven-45y6k1.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2549,
+    "favorites": 2,
+    "colors": [
+      "#000000",
+      "#424153",
+      "#999999",
+      "#e7d8b1",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "0172gg",
+    "url": "https://w.wallhaven.cc/full/01/wallhaven-0172gg.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 5306,
+    "favorites": 16,
+    "colors": [
+      "#ffffff",
+      "#424153",
+      "#996633",
+      "#999999",
+      "#663300"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "xlq1vv",
+    "url": "https://w.wallhaven.cc/full/xl/wallhaven-xlq1vv.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 2529,
+    "favorites": 17,
+    "colors": [
+      "#424153",
+      "#000000",
+      "#999999",
+      "#e7d8b1",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "e79pjk",
+    "url": "https://w.wallhaven.cc/full/e7/wallhaven-e79pjk.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 3751,
+    "favorites": 28,
+    "colors": [
+      "#424153",
+      "#cc3333",
+      "#000000",
+      "#993399",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "kxmrxm",
+    "url": "https://w.wallhaven.cc/full/kx/wallhaven-kxmrxm.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 9418,
+    "favorites": 20,
+    "colors": [
+      "#424153",
+      "#000000",
+      "#ffffff",
+      "#663300",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "zp517o",
+    "url": "https://w.wallhaven.cc/full/zp/wallhaven-zp517o.jpg",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 5509,
+    "favorites": 24,
+    "colors": [
+      "#000000",
+      "#cccccc",
+      "#999999",
+      "#424153",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "1jd7eg",
+    "url": "https://w.wallhaven.cc/full/1j/wallhaven-1jd7eg.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4567,
+    "favorites": 18,
+    "colors": [
+      "#000000",
+      "#424153",
+      "#663300",
+      "#660000",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "8393gy",
+    "url": "https://w.wallhaven.cc/full/83/wallhaven-8393gy.jpg",
+    "resolution": "2048x1152",
+    "ratio": "1.78",
+    "views": 7863,
+    "favorites": 158,
     "colors": [
       "#424153",
       "#999999",
+      "#996633",
+      "#e7d8b1",
+      "#333399"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "9mlm9k",
+    "url": "https://w.wallhaven.cc/full/9m/wallhaven-9mlm9k.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 927,
+    "favorites": 1,
+    "colors": [
+      "#663300",
+      "#424153",
+      "#cc6633",
       "#000000",
+      "#cccccc"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "0pr289",
+    "url": "https://w.wallhaven.cc/full/0p/wallhaven-0pr289.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3318,
+    "favorites": 15,
+    "colors": [
+      "#000000",
+      "#424153",
+      "#999999",
+      "#e7d8b1",
+      "#660000"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "eoele8",
+    "url": "https://w.wallhaven.cc/full/eo/wallhaven-eoele8.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 4517,
+    "favorites": 11,
+    "colors": [
+      "#999999",
+      "#e7d8b1",
+      "#424153",
+      "#ea4c88",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "281yog",
+    "url": "https://w.wallhaven.cc/full/28/wallhaven-281yog.jpg",
+    "resolution": "2560x1440",
+    "ratio": "1.78",
+    "views": 2253,
+    "favorites": 17,
+    "colors": [
+      "#333399",
+      "#424153",
+      "#000000",
+      "#66cccc",
+      "#663399"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "2y7dpg",
+    "url": "https://w.wallhaven.cc/full/2y/wallhaven-2y7dpg.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2804,
+    "favorites": 29,
+    "colors": [
+      "#999999",
+      "#abbcda",
+      "#66cccc",
+      "#e7d8b1",
+      "#424153"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "k7yv61",
+    "url": "https://w.wallhaven.cc/full/k7/wallhaven-k7yv61.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 848,
+    "favorites": 2,
+    "colors": [
+      "#999999",
+      "#fdadc7",
+      "#abbcda",
+      "#ffffff",
+      "#e7d8b1"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "x1p66o",
+    "url": "https://w.wallhaven.cc/full/x1/wallhaven-x1p66o.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2036,
+    "favorites": 6,
+    "colors": [
+      "#424153",
+      "#fdadc7",
+      "#ffffff",
+      "#999999",
+      "#996633"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "k9kqgq",
+    "url": "https://w.wallhaven.cc/full/k9/wallhaven-k9kqgq.png",
+    "resolution": "2560x1600",
+    "ratio": "1.6",
+    "views": 5345,
+    "favorites": 62,
+    "colors": [
+      "#abbcda",
+      "#66cccc",
+      "#333399",
+      "#000000",
+      "#ffffff"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "yxvrox",
+    "url": "https://w.wallhaven.cc/full/yx/wallhaven-yxvrox.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 2226,
+    "favorites": 4,
+    "colors": [
+      "#424153",
+      "#000000",
+      "#999999",
       "#abbcda",
       "#cccccc"
     ],
@@ -1666,35 +1615,86 @@
     "source": "random_fill"
   },
   {
-    "id": "1kkkjg",
-    "url": "https://w.wallhaven.cc/full/1k/wallhaven-1kkkjg.png",
-    "resolution": "3840x2160",
+    "id": "3zr9md",
+    "url": "https://w.wallhaven.cc/full/3z/wallhaven-3zr9md.jpg",
+    "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 7422,
-    "favorites": 8,
+    "views": 5054,
+    "favorites": 28,
     "colors": [
       "#000000",
-      "#663300",
-      "#e7d8b1",
-      "#996633",
-      "#999999"
+      "#424153",
+      "#999999",
+      "#660000",
+      "#0099cc"
     ],
     "tags": [],
     "source": "random_fill"
   },
   {
-    "id": "we6277",
-    "url": "https://w.wallhaven.cc/full/we/wallhaven-we6277.png",
-    "resolution": "3840x2160",
+    "id": "47mx2e",
+    "url": "https://w.wallhaven.cc/full/47/wallhaven-47mx2e.jpg",
+    "resolution": "1920x1080",
     "ratio": "1.78",
-    "views": 3024,
-    "favorites": 20,
+    "views": 5892,
+    "favorites": 32,
     "colors": [
-      "#999999",
+      "#ffffff",
+      "#000000",
       "#424153",
       "#cccccc",
+      "#cc3333"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "nz2qgj",
+    "url": "https://w.wallhaven.cc/full/nz/wallhaven-nz2qgj.jpg",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3785,
+    "favorites": 23,
+    "colors": [
       "#ffffff",
-      "#e7d8b1"
+      "#cccccc",
+      "#fdadc7",
+      "#999999",
+      "#abbcda"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "gjjmwe",
+    "url": "https://w.wallhaven.cc/full/gj/wallhaven-gjjmwe.png",
+    "resolution": "1920x1080",
+    "ratio": "1.78",
+    "views": 3980,
+    "favorites": 42,
+    "colors": [
+      "#ea4c88",
+      "#fdadc7",
+      "#cc6633",
+      "#e7d8b1",
+      "#424153"
+    ],
+    "tags": [],
+    "source": "random_fill"
+  },
+  {
+    "id": "2ypzd6",
+    "url": "https://w.wallhaven.cc/full/2y/wallhaven-2ypzd6.png",
+    "resolution": "3840x2160",
+    "ratio": "1.78",
+    "views": 1722,
+    "favorites": 22,
+    "colors": [
+      "#999999",
+      "#ffffff",
+      "#66cccc",
+      "#424153",
+      "#996633"
     ],
     "tags": [],
     "source": "random_fill"
